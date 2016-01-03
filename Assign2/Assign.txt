@@ -1,0 +1,11 @@
+/* Assignment 2 - implementing Stable Marriage Problem in Go */
+
+package main
+
+import {
+	"fmt"
+}
+
+func main(){
+	fmt.Printf("Hello, world!!\n")
+}
